@@ -56,10 +56,9 @@ This script leverages several powerful libraries and tools:
 Open this notebook and copy its contents into a Colab notebook of your own.
 
 ## Usage
-1. **Run the notebook cells sequentially:** Ensure all steps execute without errors.
-2. **Enter Twitch VOD ID or URL:** When prompted, enter the Twitch video ID or the full URL.
-3. **Authorize YouTube Access:** Follow the manual flow and paste the redirect URL when requested.
-4. **Confirm Download & Upload:** Confirm when prompted to proceed.
+1. **Enter Twitch VOD ID or URL:** When prompted, enter the Twitch video ID or the full URL.
+2. **Authorize YouTube Access:** Follow the manual flow and paste the redirect URL when requested.
+3. **Confirm Download & Upload:** Confirm when prompted to proceed.
 
 ## File Structure
 - `client_secrets.json`: Google OAuth credentials.
